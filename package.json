@@ -1,0 +1,22 @@
+{
+  "name": "test webpack",
+  "version": "1.0.0",
+  "description": "![](https://hsto.org/webt/59/d2/8d/59d28db598c21927003649.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/house96/Test-assembly-Webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/house96/Test-assembly-Webpack/issues"
+  },
+  "homepage": "https://github.com/house96/Test-assembly-Webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
